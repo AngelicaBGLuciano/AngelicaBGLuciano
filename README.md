@@ -54,6 +54,6 @@
 
 ## Onde me encontrar  
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/angélica-luciano-1a4660189)](linkedin.com/in/angélica-luciano-1a4660189)  
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:angelicaluciano7@gmail.com)](mailto:angelicaluciano7@gmail.com)  
+[![Linkedin](https://img.shields.io/badge/-Angélica%20Luciano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/angélica-luciano-1a4660189)](https://linkedin.com/in/angélica-luciano-1a4660189)  
+[![Gmail Badge](https://img.shields.io/badge/-angelicaluciano7@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:angelicaluciano7@gmail.com)](mailto:angelicaluciano7@gmail.com)  
 [![GitHub](https://img.shields.io/github/followers/AngelicaBGLuciano?label=follow&style=social)](https://github.com/AngelicaBGLuciano)  
