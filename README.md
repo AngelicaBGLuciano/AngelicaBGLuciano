@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=AngelicaBGLuciano&color=006bed)
 
+# 👋 Olá, eu sou a Angélica Luciano!  
+
 ## Sobre mim  
 
 - 🤔 Explorando **sistemas embarcados, tecnologia assistiva e aplicações web**.  
