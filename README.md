@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=AngelicaBGLuciano&color=006bed)
 
-# 👋 Olá, eu sou a Angélica Luciano!  
+# 👋 Olá, eu sou a Angélica!  
 
 ## Sobre mim  
 
