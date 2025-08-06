@@ -44,13 +44,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
----
 
-<a href="https://github.com/AngelicaBGLuciano" title="Perfil da Angélica">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelicaBGLuciano&theme=dracula&show_icons=true" />
-</a>
-
----
 
 ## Onde me encontrar  
 
