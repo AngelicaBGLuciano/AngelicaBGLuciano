@@ -5,7 +5,7 @@
 ## Sobre mim  
 
 - 🤔 Explorando **sistemas embarcados, tecnologia assistiva e aplicações web**.  
-- 🎓 Estudando **Engenharia de Computação**.  
+- 🎓 Graduada em **Engenharia de Computação**.  
 - 💼 Focada em projetos acadêmicos com **Arduino, FPGA e desenvolvimento web**.  
 - 🌱 Aprendendo mais sobre **Flutter, Godot para jogos 2D e Machine Learning**.  
 
